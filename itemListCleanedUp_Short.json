@@ -1,0 +1,236 @@
+[
+    {
+        "id": "17",
+        "name": "Martin Fury",
+        "quality": "0",
+        "level": "1"
+    },
+    {
+        "id": "25",
+        "name": "Worn Shortsword",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "35",
+        "name": "Bent Staff",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "36",
+        "name": "Worn Mace",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "37",
+        "name": "Worn Axe",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "38",
+        "name": "Recruit's Shirt",
+        "quality": "2",
+        "level": "1"
+    },
+    {
+        "id": "39",
+        "name": "Recruit's Pants",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "40",
+        "name": "Recruit's Boots",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "41",
+        "name": "OLDRecruit's Belt",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "42",
+        "name": "OLDSquire's Belt",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "43",
+        "name": "Squire's Boots",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "44",
+        "name": "Squire's Pants",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "45",
+        "name": "Squire's Shirt",
+        "quality": "2",
+        "level": "1"
+    },
+    {
+        "id": "46",
+        "name": "OLDFootpad's Belt",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "47",
+        "name": "Footpad's Shoes",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "48",
+        "name": "Footpad's Pants",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "49",
+        "name": "Footpad's Shirt",
+        "quality": "2",
+        "level": "1"
+    },
+    {
+        "id": "50",
+        "name": "OLDInitiate's Belt",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "51",
+        "name": "Neophyte's Boots",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "52",
+        "name": "Neophyte's Pants",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "53",
+        "name": "Neophyte's Shirt",
+        "quality": "2",
+        "level": "1"
+    },
+    {
+        "id": "54",
+        "name": "OLDNovice's Belt",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "55",
+        "name": "Apprentice's Boots",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "56",
+        "name": "Apprentice's Robe",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "57",
+        "name": "Acolyte's Robe",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "58",
+        "name": "OLDAcolyte's Belt",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "59",
+        "name": "Acolyte's Shoes",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "60",
+        "name": "Layered Tunic",
+        "quality": "1",
+        "level": "5"
+    },
+    {
+        "id": "61",
+        "name": "Dwarven Leather Pants",
+        "quality": "1",
+        "level": "3"
+    },
+    {
+        "id": "77",
+        "name": "Deprecated Outfitter Cloth Armor",
+        "quality": "1",
+        "level": "4"
+    },
+    {
+        "id": "79",
+        "name": "Dwarven Cloth Britches",
+        "quality": "1",
+        "level": "3"
+    },
+    {
+        "id": "80",
+        "name": "Soft Fur-Lined Shoes",
+        "quality": "1",
+        "level": "5"
+    },
+    {
+        "id": "85",
+        "name": "Dirty Leather Vest",
+        "quality": "1",
+        "level": "5"
+    },
+    {
+        "id": "86",
+        "name": "Deprecated Old Belt",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "87",
+        "name": "Deprecated Old Boots",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "88",
+        "name": "Deprecated Old Pants",
+        "quality": "0",
+        "level": "1"
+    },
+    {
+        "id": "89",
+        "name": "OLDThick Trapper's Shirt",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "90",
+        "name": "OLDDwarven Initiate's Belt",
+        "quality": "1",
+        "level": "1"
+    },
+    {
+        "id": "91",
+        "name": "OLDDwarven Initiate's Pants",
+        "quality": "0",
+        "level": "1"
+    }
+]
